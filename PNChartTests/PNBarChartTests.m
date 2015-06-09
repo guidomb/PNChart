@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 #define EXP_SHORTHAND
-#import <Expecta.h>
+#import <Expecta/Expecta.h>
 #import "PNBarChart.h"
 #import "PNBar.h"
 
